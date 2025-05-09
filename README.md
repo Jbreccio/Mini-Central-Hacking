@@ -1,4 +1,4 @@
-# Magali Hacking Center - TV Box with Armbian
+# Mini Central Hacking - TV Box with Armbian - DIY
 
 **Description**:
 
